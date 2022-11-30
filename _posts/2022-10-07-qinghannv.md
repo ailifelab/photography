@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "清汉女"
-img: 2022/2022-10-07-000.jpg # Add image post (optional)
+img: https://s3.uuu.ovh/imgs/2022/11/30/b424f066296758d8.jpg
 date: 2022-10-07 20:22:00 +0800
 description: 清汉女一组. # Add post description (optional)
 tag: [昆明约拍,昆明拍照,汉服写真,清汉女,写真]

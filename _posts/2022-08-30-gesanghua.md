@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "格桑花海"
-img: 2022/2022-08-30-000.jpg # Add image post (optional)
+img: https://s3.uuu.ovh/imgs/2022/11/19/757e9f1cde1846d2.jpg # Add image post (optional)
 date: 2022-08-30 20:00:00 +0300
 description: 格桑花开.
 tag: [昆明约拍,昆明拍照,汉服写真,花语,格桑花,少女写真,写真,鲜花分享]
