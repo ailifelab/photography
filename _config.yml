@@ -6,7 +6,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ailifelab.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Banner settings
-video: from-daniel-tang-zxwbmxYYcKk-unsplash.jpg # add banner video. Add your video file to the folder video
+video: title.jpg # add banner video. Add your video file to the folder video
 banner-title: 爱·生活
 banner-desc: 留住生活中每一个美丽的瞬间
 
